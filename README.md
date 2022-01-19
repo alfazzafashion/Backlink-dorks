@@ -10,9 +10,9 @@ inurl:/blog-submission.html
 inurl:/blog_submissions.html
 inurl:/submit-blog.html
 ~~~
-~~~
-# Blog .gov dan .edu
-~~~
+
+# Blog .gov & .edu
+
 ~~~
 inurl:.gov+inurl:blog
 site:.edu inurl:wp-login.php +blog
@@ -27,9 +27,9 @@ site:.edu inurl:blog “comment” -”you must be logged in” -”posting clos
 “keyword” blog site:.edu
 keyword +inurl:blog site:.edu
 ~~~
-~~~
+
 # Do-Follow Blogs
-~~~
+
 ~~~
 Keywords “Powered by BlogEngine.NET”
 Keywords “top commenter”
@@ -47,9 +47,9 @@ inurl:ucomment
 inurl:ifollow
 Keyword(s) “Recent Comments”
 ~~~
-~~~
+
 # Video Sharing Sites
-~~~
+
 ~~~
 “Powered by MediaShare”
 “Powered by clipbucket”
@@ -66,5 +66,4 @@ Keyword(s) “Recent Comments”
 “Powered by Sharemixer” – low cost video sharing solution a la Youtube
 “Powered by Clipshare”
 “Powered by SocialMedia.com”
-~~~
 ~~~
