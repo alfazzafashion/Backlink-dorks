@@ -1,0 +1,8 @@
+inurl:/add-blog.php
+inurl:/add_blog.php
+inurl:/addblog.html
+inurl:/addyourblog.asp
+inurl:/blog-submission.html
+inurl:/blog_submissions.html
+inurl:/submit-blog.html
+inurl:/submit_blog.html

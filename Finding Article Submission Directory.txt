@@ -1,0 +1,88 @@
+ArticleMS + inurl:/articles/
+ArticleMS + inurl:/art/
+ArticleMS + inurl:/category/
+ArticleMS + inurl:/articlems/
+ArticleMS + inurl:/artms/
+Article Dashboard + inurl:/article/
+Article Dashboard + inurlopulararticles.php
+Article Dashboard + inurl:/profile/
+Article Dashboard + inurl:/login2submitart2.php
+Article Dashboard + inurl:/submitarticles.php
+Powered by: php Link Directory
+powered by PHPLD
+Powered by WSN Links
+powered by PHP Weby
+Powered by cpLinks
+Powered by cpDynaLinks
+powered by BosDirectory
+Powered by Link manager LinkMan
+Powered by Gossamer Links
+Powered by K-Links
+Powered by In-Link
+Powered by eSyndiCat Directory Software
+Powered by: qlWebDS Pro
+Powered by Directory software by LBS
+powered by phpMyDirectory.com
+Powered by HubDir PHP directory script 
+Powered by free article directory
+Powered by Article Dashboard
+Powered by ArticleMS
+powered by article dashboard
+Powered by: php Link Directory
+powered by PHPLD
+Powered by WSN Links
+powered by PHP Weby
+Powered by cpLinks
+Powered by cpDynaLinks
+powered by BosDirectory
+Powered by Link manager LinkMan
+Powered by Gossamer Links
+Powered by K-Links
+Powered by In-Link
+Powered by eSyndiCat Directory Software
+Powered by: qlWebDS Pro
+Powered by Directory software by LBS
+powered by phpMyDirectory.com
+Powered by HubDir PHP directory script
+Powered by Article Dashboard "Sign Up for a free account" -forum
+Powered by ArticleMS "Submit Article" "Latest Articles"
+Powered by Article Directory
+Powered By: Article Friendly
+Powered By Article directory software
+powered by NextAge Tech
+Powered by Revenue Sharing Article Directory Script
+powered by articlems
+Powered by Article Directory plugin
+Powered by Free Directory Submissions
+Powered by the original Free Article Directory
+Powered by Article Directory %KW%
+Powered By: Article Friendly %KW%
+Powered By Article directory software %KW%
+powered by NextAge Tech %KW%
+Powered by Revenue Sharing Article Directory Script %KW%
+powered by article dashboard %KW%
+powered by articlems %KW%
+Powered by Article Directory plugin %KW%
+“Powered by the original Free Article Directory”
+“Powered by Article Friendly”
+“Powered By : Article Friendly”
+“Powered by Article Dashboard”
+“Powered by ArticleMS”
+“Powered by WordPress · Using Article Directory plugin · Theme by Dimox”
+Submit Articles "Total Articles" "Total Authors" "Total Downloads"
+Submit Articles
+Submit Article
+submit an article
+Submit Free Articles
+Submit New Articles for your articles marketing
+inurl:/articles/
+inurl:/art/
+inurl:/category/
+inurl:/articlems/
+inurl:/artms/
+inurl:logintosubmitart.php
+inurl:/article/
+inurl: populararticles.php - article dashboard
+inurl:/profile/ - article dashboard -- profile page -- great!!!
+inurl:/login2submitart2.php - article dashboard
+inurl:/submitarticles.php - article dashboard

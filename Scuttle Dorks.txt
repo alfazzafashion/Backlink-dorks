@@ -1,0 +1,25 @@
+"Store all your favourite links in one place, accessible from anywhere"
+?sort=alphabet_asc
+?sort=popularity_asc
+Bookmarking the web 2.0
+intext:"bookmarks" "Store, share and tag your favourite links"
+intext:"date" "Store, share and tag your favourite links"
+intext:"first" "Store, share and tag your favourite links"
+intext:"next" "Store, share and tag your favourite links"
+intext:"Previous" "Store, share and tag your favourite links"
+intext:"register" "Store, share and tag your favourite links"
+intext:"Sort by:" "Store, share and tag your favourite links"
+intext:about "Store, share and tag your favourite links" about
+inurl:/populartags/
+inurl:?sort=url_asc
+inurl:?sort=url_asc AND "keyword"
+inurl:bookmarks.php scuttle
+inurl:by scuttlePLUS
+inurl:Populartags.php/ AND "keyword"
+inurl:scuttle/about.php
+inurl:scuttle/bookmarks.php
+inurl:scuttle/register
+inurl:scuttle/register.php
+Propulsed by SemanticScuttle
+Store, share and tag your favourite links
+"Speicher alle Deine Webseiten-Favoriten an einem Ort"

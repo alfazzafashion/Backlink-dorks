@@ -1,0 +1,825 @@
+inurl:blogging
+inurl:"member.php?u="
+inurl:"index.php?showuser="
+inurl:"smf/index.php?action=profile;u="
+inurl:"index.php?action=profile"
+inurl:"profile.php?mode=viewprofile&amp;u="
+inurl:"profile.php?id="
+"member.php?u="
+"index.php?showuser="
+"Invision Power Board"
+"smf/index.php?action=profile;u="
+"index.php?action=profile"
+"profile.php?mode=viewprofile&amp;u="
+"profile.php?id="
+"Powered by PunBB"
+"Powered by SMF"
+"PHPBB"
+"Powered by phpBB"
+inurl:"member.php?u=" 
+inurl:"index.php?showuser=" 
+inurl:"smf/index.php?action=profile;u=" 
+inurl:"index.php?action=profile" 
+forumphorumadd 
+topicnew 
+topicphpbbyabbipbpostingadd 
+messagesend 
+messagepost 
+new topicnew threadsend 
+threadvbulletinbbs
+intext:"powered by vbulletin"
+intext:"powered by yabb"
+intext:"powered by ip.board"
+intext:"powered by phpbb"
+inanchor:vbulletin
+inanchor:yabbin
+anchor:ip.board
+inanchor:phpbb/board/board/
+/foren/
+/forum/
+/forum/?fnr=/
+forums/
+/sutraact=regact=sfact=stbbs/
+ezboard.cgibbs1/
+ezboard.cgiboardboard-4you.deboard/
+inurl:"member.php?u="
+inurl:"index.php?showuser="
+inurl:"smf/index.php?action=profile;u="
+inurl:"index.php?action=profile"
+inurl:"profile.php?mode=viewprofile&amp;u="
+inurl:"profile.php?id="
+"member.php?u="
+"index.php?showuser="
+"Invision Power Board"
+"smf/index.php?action=profile;u="
+"index.php?action=profile"
+"profile.php?mode=viewprofile&amp;u="
+"profile.php?id="
+"Powered by PunBB"
+"Powered by SMF"
+"PHPBB"
+"Powered by phpBB"
+ 
+forum
+phorum
+add topic
+new topic
+phpbb
+yabb
+ipb
+posting
+add message
+send message
+post new topic
+new thread
+send thread
+vbulletin
+bbs
+intext:"powered by vbulletin"
+intext:"powered by yabb"
+intext:"powered by ip.board"
+intext:"powered by phpbb"
+inanchor:vbulletin
+inanchor:yabb
+inanchor:ip.board
+inanchor:phpbb
+/board
+/board/
+/foren/
+/forum/
+/forum/?fnr=
+/forums/
+/sutra
+act=reg
+act=sf
+act=st
+bbs/ezboard.cgi
+bbs1/ezboard.cgi
+board
+board-4you.de
+board/ezboard.cgi
+boardbook.de
+bulletin
+cgi-bin/ezboard.cgi
+communityhost.de
+exbb
+ez2000/ezboard.cgi
+ezboard
+ezboard.cgi
+foren-city.de
+foro/
+forum-extra.de
+forum-gratis.com
+forum.
+forum.cgi?
+forum.onetwomax.de
+forumieren.de
+forumprofi.de
+forumromanum.de
+forumservice.de
+free-webmaster-service.de
+gratis-forum.de
+gratis-forum.de/
+homepage-forum.de
+homepagemodules.de
+inet-forum.de
+invision
+kostenlose-foren.org
+kostenloses-forum.com
+list.php
+lofiversion
+modules.php
+newbb
+newbbs/ezboard.cgi
+onlyfree.de/cgi-bin/forum/
+phpbbx.de
+plusboard.de
+post.php
+profile.php
+showthread.php
+siteboard.de
+thread
+topic
+ubb
+ultimatebb
+unboard.de
+webmart.de/f.cfm?id=
+xtremeservers.at/board/
+yooco.de
+inurl:forum
+inurl:phorum
+inurl:add topic
+inurl:new topic
+inurl:phpbb
+inurl:yabb
+inurl:ipb
+inurl:posting
+inurl:add message
+inurl:send message
+inurl:post new topic
+inurl:new thread
+inurl:send thread
+inurl:vbulletin
+inurl:bbs
+inurl: "powered by vbulletin"
+inurl: "powered by yabb"
+inurl: "powered by ip.board"
+inurl: "powered by phpbb"
+inurl: vbulletin
+inurl: yabb
+inurl: ip.board
+inurl: phpbb
+inurl:/board
+inurl:/board/
+inurl:/foren/
+inurl:/forum/
+inurl:/forum/?fnr=
+inurl:/forums/
+inurl:/sutra
+inurl:act=reg
+inurl:act=sf
+inurl:act=st
+inurl:bbs/ezboard.cgi
+inurl:bbs1/ezboard.cgi
+inurl:board
+inurl:board-4you.de
+inurl:board/ezboard.cgi
+inurl:boardbook.de
+inurl:bulletin
+inurl:cgi-bin/ezboard.cgi
+inurl:communityhost.de
+inurl:exbb
+inurl:ez2000/ezboard.cgi
+inurl:ezboard
+inurl:ezboard.cgi
+inurl:foren-city.de
+inurl:foro/
+inurl:forum-extra.de
+inurl:forum-gratis.com
+inurl:forum.
+inurl:forum.cgi?
+inurl:forum.onetwomax.de
+inurl:forumieren.de
+inurl:forumprofi.de
+inurl:forumromanum.de
+inurl:forumservice.de
+inurl:free-webmaster-service.de
+inurl:gratis-forum.de
+inurl:gratis-forum.de/
+inurl:homepage-forum.de
+inurl:homepagemodules.de
+inurl:inet-forum.de
+inurl:invision
+inurl:kostenlose-foren.org
+inurl:kostenloses-forum.com
+inurl:list.php
+inurl:lofiversion
+inurl:modules.php
+inurl:newbb
+inurl:newbbs/ezboard.cgi
+inurl:onlyfree.de/cgi-bin/forum/
+inurl:phpbbx.de
+inurl:plusboard.de
+inurl:post.php
+inurl:profile.php
+inurl:showthread.php
+inurl:siteboard.de
+inurl:thread
+inurl:topic
+inurl:ubb
+inurl:ultimatebb
+inurl:unboard.de
+inurl:webmart.de/f.cfm?id=
+inurl:xtremeservers.at/board/
+inurl:yooco.de
+link:forum
+link:phorum
+link:add topic
+link:new topic
+link:phpbb
+link:yabb
+link:ipb
+link:posting
+link:add message
+link:send message
+link:post new topic
+link:new thread
+link:send thread
+link:vbulletin
+link:bbs
+link:intext:"powered by vbulletin"
+link:intext:"powered by yabb"
+link:intext:"powered by ip.board"
+link:intext:"powered by phpbb"
+link:inanchor:vbulletin
+link:inanchor:yabb
+link:inanchor:ip.board
+link:inanchor:phpbb
+link:/board
+link:/board/
+link:/foren/
+link:/forum/
+link:/forum/?fnr=
+link:/forums/
+link:/sutra
+link:act=reg
+link:act=sf
+link:act=st
+link:bbs/ezboard.cgi
+link:bbs1/ezboard.cgi
+link:board
+link:board-4you.de
+link:board/ezboard.cgi
+link:boardbook.de
+link:bulletin
+link:cgi-bin/ezboard.cgi
+link:communityhost.de
+link:exbb
+link:ez2000/ezboard.cgi
+link:ezboard
+link:ezboard.cgi
+link:foren-city.de
+link:foro/
+link:forum-extra.de
+link:forum-gratis.com
+link:forum.
+link:forum.cgi?
+link:forum.onetwomax.de
+link:forumieren.de
+link:forumprofi.de
+link:forumromanum.de
+link:forumservice.de
+link:free-webmaster-service.de
+link:gratis-forum.de
+link:gratis-forum.de/
+link:homepage-forum.de
+link:homepagemodules.de
+link:inet-forum.de
+link:invision
+link:kostenlose-foren.org
+link:kostenloses-forum.com
+link:list.php
+link:lofiversion
+link:modules.php
+link:newbb
+link:newbbs/ezboard.cgi
+link:onlyfree.de/cgi-bin/forum/
+link:phpbbx.de
+link:plusboard.de
+link:post.php
+link:profile.php
+link:showthread.php
+link:siteboard.de
+link:thread
+link:topic
+link:ubb
+link:ultimatebb
+link:unboard.de
+link:webmart.de/f.cfm?id=
+link:xtremeservers.at/board/
+link:yooco.de
+index.cgi
+action=display&amp;thread
+index.php
+index.php?fid
+index.php?mid
+index.php?act=
+user_profile.php
+messages.php?webtag
+post.php?webtag
+pm.php
+beehive
+/discussion/
+/comment/reply/
+cgi-bin/forum/
+/cgi-bin/forum/blah.pl
+"powered by e-blah forum software"
+"powered by xmb"
+/forumdisplay.php?
+/misc.php?action=
+member.php?action=
+"powered by: fudforum"
+index.php?t=usrinfo
+/index.php?t=thread
+/index.php?t=
+index.php?t=post&amp;frm_id=
+"powered by fluxbb"
+/profile.php?id=
+viewforum.php?id
+login.php
+register.php
+profile.forum?
+posting.forum&amp;mode=newtopic
+post.forum?mode=reply
+"powered by icebb"
+index.php?s=
+act=login&amp;func=register
+act=post&amp;forum=19
+forums/show/
+module=posts&amp;action=insert&amp;forum_id
+posts/list
+/user/profile/
+/posts/reply/
+new_topic.jbb?
+"powered by javabb 0.99"
+login.jbb
+new_member.jbb
+reply.jbb
+/cgi-bin/forum/
+cgi-bin/forum.cgi
+/registermember
+listforums?
+"forum mesdiscussions.net
+version"
+index.php?action=vtopic
+"powered by forum software minibb"
+index.php?action=registernew
+member.php?action=register
+forumdisplay.php
+newthread.php?
+newreply.php?
+/phorum/
+phorum/list.php
+"this forum is powered by phorum"
+phorum/posting.php
+phorum/register.php
+phpbb/viewforum.php?
+/phpbb/
+phpbb/profile.php?mode=register
+phpbb/posting.php?mode=newtopic
+phpbb/posting.php?mode=reply
+/phpbb3/
+phpbb3/ucp.php?mode=register
+phpbb3/posting.php?mode=post
+phpbb3/posting.php?mode=reply
+/punbb/
+punbb/register.php
+/quicksilver/
+"powered by quicksilver forums"
+index.php?a=forum
+index.php?a=register
+index.php?a=post&amp;s=topic
+/seoboard/
+"powered by seo-board"
+seoboard/index.php?a=vforum
+index.php?a=vtopic
+/index.php?a=register
+"powered by smf 1.1.5"
+"index.php?action=register"
+/index.php?board
+"powered by ubb.threads"
+ubb=postlist
+ubb=newpost&amp;board=1
+"ultrabb"
+view_forum.php?id
+new_topic.php?
+login.php?register=1
+"powered by vbulletin"
+vbulletin/register.php
+/forumdisplay.php?f=
+newreply.php?do=newreply
+newthread.php?do=newthread
+"powered by bbpress"
+bbpress/topic.php?id
+bbpress/register.php
+"powered by the unclassified newsboard"
+forum.php?req
+forum.php?req=register
+/unb/
+"powered by usebb forum software"
+/usebb/
+topic.php?id
+panel.php?act=register
+"a product of lussumo"
+comments.php?discussionid=
+/viscacha/
+forum.php?s=
+"powered by viscacha"
+/viscacha/register.php
+/post?id=
+post/printadd?forum
+community/index.php
+community/forum.php?
+community/register.php
+"powered by xennobb"
+"hosted for free by zetaboards"
+"powered by yaf"
+yaf_rules.aspx
+yaf_topics
+postmessage.aspx
+register.aspx
+post/?type
+inurl:action=display&amp;thread
+inurl:index.php
+inurl:index.php?fid
+inurl:index.php?mid
+inurl:index.php?act=
+inurl:user_profile.php
+inurl:messages.php?webtag
+inurl:post.php?webtag
+inurl:pm.php
+inurl:beehive
+inurl:/discussion/
+inurl:/comment/reply/
+inurl:cgi-bin/forum/
+inurl:/cgi-bin/forum/blah.pl
+inurl:"powered by e-blah forum software"
+inurl:"powered by xmb"
+inurl:/forumdisplay.php?
+inurl:/misc.php?action=
+inurl:member.php?action=
+inurl:"powered by: fudforum"
+inurl:index.php?t=usrinfo
+inurl:/index.php?t=thread
+inurl:/index.php?t=
+inurl:index.php?t=post&amp;frm_id=
+inurl:"powered by fluxbb"
+inurl:/profile.php?id=
+inurl:viewforum.php?id
+inurl:login.php
+inurl:register.php
+inurl:profile.forum?
+inurl:posting.forum&amp;mode=newtopic
+inurl:post.forum?mode=reply
+inurl:"powered by icebb"
+inurl:index.php?s=
+inurl:act=login&amp;func=register
+inurl:act=post&amp;forum=19
+inurl:forums/show/
+inurl:module=posts&amp;action=insert&amp;forum_id
+inurl:posts/list
+inurl:/user/profile/
+inurl:/posts/reply/
+inurl:new_topic.jbb?
+inurl:"powered by javabb 0.99"
+inurl:login.jbb
+inurl:new_member.jbb
+inurl:reply.jbb
+inurl:/cgi-bin/forum/
+inurl:cgi-bin/forum.cgi
+inurl:/registermember
+inurl:listforums?
+inurl:"forum mesdiscussions.net
+inurl:index.php?action=vtopic
+inurl:"powered by forum software minibb"
+inurl:index.php?action=registernew
+inurl:member.php?action=register
+inurl:forumdisplay.php
+inurl:newthread.php?
+inurl:newreply.php?
+inurl:/phorum/
+inurl:phorum/list.php
+inurl:"this forum is powered by phorum"
+inurl:phorum/posting.php
+inurl:phorum/register.php
+inurl:phpbb/viewforum.php?
+inurl:/phpbb/
+inurl:phpbb/profile.php?mode=register
+inurl:phpbb/posting.php?mode=newtopic
+inurl:phpbb/posting.php?mode=reply
+inurl:/phpbb3/
+inurl:phpbb3/ucp.php?mode=register
+inurl:phpbb3/posting.php?mode=post
+inurl:phpbb3/posting.php?mode=reply
+inurl:/punbb/
+inurl:punbb/register.php
+inurl:"powered by phpbb"
+inurl:"powered by punbb"
+inurl:/quicksilver/
+inurl:"powered by quicksilver forums"
+inurl:index.php?a=forum
+inurl:index.php?a=register
+inurl:index.php?a=post&amp;s=topic
+inurl:/seoboard/
+inurl:"powered by seo-board"
+inurl:seoboard/index.php?a=vforum
+inurl:index.php?a=vtopic
+inurl:/index.php?a=register
+inurl:"powered by smf 1.1.5"
+inurl:"index.php?action=register"
+inurl:/index.php?board
+inurl:"powered by ubb.threads"
+inurl:ubb=postlist
+inurl:ubb=newpost&amp;board=1
+inurl:"ultrabb"
+inurl:view_forum.php?id
+inurl:new_topic.php?
+inurl:login.php?register=1
+inurl:"powered by vbulletin"
+inurl:vbulletin/register.php
+inurl:/forumdisplay.php?f=
+inurl:newreply.php?do=newreply
+inurl:newthread.php?do=newthread
+inurl:"powered by bbpress"
+inurl:bbpress/topic.php?id
+inurl:bbpress/register.php
+inurl:"powered by the unclassified newsboard"
+inurl:forum.php?req
+inurl:forum.php?req=register
+inurl:/unb/
+inurl:"powered by usebb forum software"
+inurl:/usebb/
+inurl:topic.php?id
+inurl:panel.php?act=register
+inurl:"a product of lussumo"
+inurl:comments.php?discussionid=
+inurl:/viscacha/
+inurl:forum.php?s=
+inurl:"powered by viscacha"
+inurl:/viscacha/register.php
+inurl:/post?id=
+inurl:post/printadd?forum
+inurl:community/index.php
+inurl:community/forum.php?
+inurl:community/register.php
+inurl:"powered by xennobb"
+inurl:"hosted for free by zetaboards"
+inurl:"powered by yaf"
+inurl:yaf_rules.aspx
+inurl:yaf_topics
+inurl:postmessage.aspx
+inurl:register.aspx
+inurl:post/?type
+link:action=display&amp;thread
+link:index.php
+link:index.php?fid
+link:index.php?mid
+link:index.php?act=
+link:user_profile.php
+link:messages.php?webtag
+link:post.php?webtag
+link:pm.php
+link:beehive
+link:/discussion/
+link:/comment/reply/
+link:cgi-bin/forum/
+link:/cgi-bin/forum/blah.pl
+link:"powered by e-blah forum software"
+link:"powered by xmb"
+link:/forumdisplay.php?
+link:/misc.php?action=
+link:member.php?action=
+link:"powered by: fudforum"
+link:index.php?t=usrinfo
+link:/index.php?t=thread
+link:/index.php?t=
+link:index.php?t=post&amp;frm_id=
+link:"powered by fluxbb"
+link:/profile.php?id=
+link:viewforum.php?id
+link:login.php
+link:register.php
+link:profile.forum?
+link:posting.forum&amp;mode=newtopic
+link:post.forum?mode=reply
+link:"powered by icebb"
+link:index.php?s=
+link:act=login&amp;func=register
+link:act=post&amp;forum=19
+link:forums/show/
+link:module=posts&amp;action=insert&amp;forum_id
+link:posts/list
+link:/user/profile/
+link:/posts/reply/
+link:new_topic.jbb?
+link:"powered by javabb 0.99"
+link:login.jbb
+link:new_member.jbb
+link:reply.jbb
+link:/cgi-bin/forum/
+link:cgi-bin/forum.cgi
+link:/registermember
+link:listforums?
+link:"forum mesdiscussions.net
+link:index.php?action=vtopic
+link:"powered by forum software minibb"
+link:index.php?action=registernew
+link:member.php?action=register
+link:forumdisplay.php
+link:newthread.php?
+link:newreply.php?
+link:/phorum/
+link:phorum/list.php
+link:"this forum is powered by phorum"
+link:phorum/posting.php
+link:phorum/register.php
+link:phpbb/viewforum.php?
+link:/phpbb/
+link:phpbb/profile.php?mode=register
+link:phpbb/posting.php?mode=newtopic
+link:phpbb/posting.php?mode=reply
+link:/phpbb3/
+link:phpbb3/ucp.php?mode=register
+link:phpbb3/posting.php?mode=post
+link:phpbb3/posting.php?mode=reply
+link:/punbb/
+link:punbb/register.php
+link:"powered by phpbb"
+link:"powered by punbb"
+link:/quicksilver/
+link:"powered by quicksilver forums"
+link:index.php?a=forum
+link:index.php?a=register
+link:index.php?a=post&amp;s=topic
+link:/seoboard/
+link:"powered by seo-board"
+link:seoboard/index.php?a=vforum
+link:index.php?a=vtopic
+link:/index.php?a=register
+link:"powered by smf 1.1.5"
+link:"index.php?action=register"
+link:/index.php?board
+link:"powered by ubb.threads"
+link:ubb=postlist
+link:ubb=newpost&amp;board=1
+link:"ultrabb"
+link:view_forum.php?id
+link:new_topic.php?
+link:login.php?register=1
+link:"powered by vbulletin"
+link:vbulletin/register.php
+link:/forumdisplay.php?f=
+link:newreply.php?do=newreply
+link:newthread.php?do=newthread
+link:"powered by bbpress"
+link:bbpress/topic.php?id
+link:bbpress/register.php
+link:"powered by the unclassified newsboard"
+link:forum.php?req
+link:forum.php?req=register
+link:/unb/
+link:"powered by usebb forum software"
+link:/usebb/
+link:topic.php?id
+link:panel.php?act=register
+link:"a product of lussumo"
+link:comments.php?discussionid=
+link:/viscacha/
+link:forum.php?s=
+link:"powered by viscacha"
+link:/viscacha/register.php
+link:/post?id=
+link:post/printadd?forum
+link:community/index.php
+link:community/forum.php?
+link:community/register.php
+link:"powered by xennobb"
+link:"hosted for free by zetaboards"
+link:"powered by yaf"
+link:yaf_rules.aspx
+link:yaf_topics
+link:postmessage.aspx
+link:register.aspx
+link:post/?type
+forums register
+register i am over 13 years of age forum
+discussion board register
+bulletin board register
+message board register
+phpbb register forum
+punbb register forum
+forum signup
+vbulletin forum signup
+SMF register forum
+proudly powered by bbPress
+bb-login.php
+bbpress topic.php
+Powered by PunBB viewforum.php
+Powered by PunBB register.php
+The Following User Says Thank You to for this post
+BB code is On
+Similar Threads All times are GMT +1
+If this is your first visit, be sure to check out the FAQ by clicking the link above. You may have to register before you can post
+Hot thread with no new posts
+Thread is closed
+There are 135 users currently browsing forums.
+forums post thread
+forums new topic
+forums view thread
+forums new replies
+forum post thread
+forum new topic
+forum view thread
+forum new replies
+view topic forum
+new thread forum
+send thread forum
+VBulletin forum
+Quick Reply Quote message in reply?
+Currently Active Users: 232 (0 members and 232 guests)
+Currently Active Users: members and guests
+Forums Posting Statistics Newest Member
+Users active in past 30 minutes: SMF
+Users active in past 30 minutes: Most Online Today Most Online Ever
+Most Online Today Most Online Ever Forums
+Currently Active Users: 18 (0 members and 18 guests)
+Users active today: 15478 (158 members and 15320 guests)
+Threads: 673, Posts: 7,321, Total Members: 376
+Add this forum to your Favorites List! Threads in Forum :
+Threads in Forum Hot thread with no new posts
+"powered by yabb"
+"powered by ip.board"
+"powered by phpbb3"
+"powered by invision power board"
+"Powered By MyBB"
+powered by phpbb
+inanchorhpbb
+"index.php?action=register"index.php?action=regist er"
+inurl:/viewthread.php?tid=
+inurl:/forum_posts.asp?tid=
+inurl:/viewtopic.php?f=
+inurl:/viewtopic.php?t=
+inurl:/viewtopic.php?p=
+inurl:/showthread.php?t=
+inurl:/viewforum.php?f=
+inurl:/viewthread.php?thread_id=
+inurl:/view-last-messages.html
+inurl:/showthread.php?tid=
+inurl:/topic
+inurl:/forum/forum_posts.asp?tid=
+inurl:/showthread.php?
+inurl:/viewthread.php?action=
+inurl:/forum?func=
+inurl:/forums
+inurl:/showthread.php?p=
+inurl:/view-messages-since-last-visit.html
+inurl:/thread
+inurl:/forum.html?func=
+inurl:/viewthread.php?forum_id=
+inurl:/mvnforum/viewthread?thread=
+inurl:/forum
+inurl:/ubbthreads.php?ubb=
+inurl:/forum.asp?sid=
+inurl:/display_topic_threads.asp?forumid=
+inurl:/topic.asp?topic_id=
+inurl:/newreply.php?tid=
+inurl:/read.php?
+inurl:/viewtopic.php?id=
+inurl:/forum/viewthread.php?thread_id=
+inurl:/viewthread.php?fid=
+inurl:/latest.html
+inurl:/ubb.x
+inurl:/showflat.php?cat=
+inurl:/get_topic.asp?fid=
+inurl:/redirect.php?tid=
+inurl:/forum.asp?fid=
+inurl:/thread.jspa?threadid=
+inurl:/viewthread-
+inurl:/thread-
+inurl:/gforum.cgi?post=
+inurl:/archiver/?tid-
+inurl:/viewthread?thread=
+inurl:/view/viewthread?thread=
+inurl:/default.aspx?g=
+inurl:/modules.php?op=
+"member.php?u="
+"index.php?showuser="
+"Invision Power Board"
+"smf/index.php?action=profile;u="
+"index.php?action=profile"
+"profile.php?mode=viewprofile&amp;u="
+"profile.php?id="
+"Powered by PunBB"
+"Powered by SMF"
+"PHPBB"
+"Powered by phpBB"
